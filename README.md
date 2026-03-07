@@ -21,3 +21,11 @@ I love turning ideas into real projects and continuously improving my developmen
 - Contribute to **open source projects**
 
 ✨ *Always learning, always building.*
+
+<p align="center">
+  <img src="assets/git read me.svg" width="full"/>
+</p>
+
+<p align="center">
+  <img src="assets/git read me 2.webp" width="400"/>
+</p>
