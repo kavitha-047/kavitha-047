@@ -23,9 +23,9 @@ I love turning ideas into real projects and continuously improving my developmen
 ✨ *Always learning, always building.*
 
 <p align="center">
-  <img src="assets/banner.svg" width="full"/>
+  <img src="https://raw.githubusercontent.com/kavitha-047/kavitha-047/main/banner.svg" width="900"/>
+</p>
+<p align="center">
+  <img src="banner 22.webp" width="400"/>
 </p>
 
-<p align="center">
-  <img src="assets/git read me 2.webp" width="400"/>
-</p>
