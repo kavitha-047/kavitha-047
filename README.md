@@ -12,20 +12,15 @@ I love turning ideas into real projects and continuously improving my developmen
 
 ### 🛠 Tech Stack
 - **Languages:** JavaScript, HTML5, CSS3  
-- **Frontend:** React.js, Tailwind CSS  
+- **Frontend:** React.js, Tailwind CSS,Wordpress
 - **Tools:** Git, GitHub, VS Code, Vite, Netlify  
-
-### 🎯 Goals
-- Become a **professional full-stack developer**
-- Build **useful products that help people**
-- Contribute to **open source projects**
 
 ✨ *Always learning, always building.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kavitha-047/kavitha-047/main/banner.svg" width="900"/>
+  <img src="https://raw.githubusercontent.com/kavitha-047/kavitha-047/main/banner.svg" width="700"/>
 </p>
 <p align="center">
-  <img src="banner 22.webp" width="400"/>
+  <img src="banner 22.webp" width="200"/>
 </p>
 
