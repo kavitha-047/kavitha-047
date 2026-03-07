@@ -23,7 +23,7 @@ I love turning ideas into real projects and continuously improving my developmen
 ✨ *Always learning, always building.*
 
 <p align="center">
-  <img src="assets/git read me.svg" width="full"/>
+  <img src="assets/banner.svg" width="full"/>
 </p>
 
 <p align="center">
